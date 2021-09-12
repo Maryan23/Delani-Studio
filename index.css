@@ -41,3 +41,28 @@
     font-weight: 800;
     margin-top: 90px;
 }
+#what{
+    text-align: center;
+    font-weight:600;
+    font-size: 30px;
+}
+.images{
+    display:flex;
+    justify-content: space-between;
+}
+.imagetitles{
+    display:flex;
+    justify-content:space-between;
+}
+#design{
+    margin-left:50px;
+}
+#product{
+    margin-right: 50px;
+}
+#des{
+    margin-left:60px;
+}
+#dev{
+    margin-left: 70px;
+}
