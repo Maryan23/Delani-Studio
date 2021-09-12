@@ -113,4 +113,16 @@
 #name{
     margin-left:-50px;
 }
-
+.socials{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#cp{
+    text-align:center;
+}
+#cpy{
+    text-align: center;
+}
