@@ -66,3 +66,36 @@
 #dev{
     margin-left: 70px;
 }
+.portfolio{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+#port{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.row1{
+    display:flex;
+    justify-content:space-around;
+    flex-direction: row-reverse;
+}
+.row2{
+    display:flex;
+    justify-content: space-around;
+}
+.pf{
+    height:200px;
+    width:230px;
+}
+.contactus{
+    background-image: url(IP3/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    color:white;
+}
+#contact{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
