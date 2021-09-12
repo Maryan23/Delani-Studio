@@ -1,4 +1,4 @@
-# DEKANI STUDIO
+# DELANI STUDIO
 #### Brief description of application
 #### 12|09|2021
 #### BY MARYANN MWIKALI
