@@ -1,9 +1,8 @@
 # DELANI STUDIO
-#### Brief description of application
-#### 12|09|2021
 #### BY MARYANN MWIKALI
+#### Current version updated on:13|09|2021
 ## Description
-This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. 
+This website is the landing page of a fictional studio called Delani Studio. Click on the icons in the 'What we do icons' to see more of what to do.
 ## Setup/Installation Requirements
 * Navigate to https://github.com/Maryan23/Delani-Studio on your browser.
 * Click on the live link in the about section, which will direct you to the website.
