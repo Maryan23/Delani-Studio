@@ -17,3 +17,14 @@
 #top2{
     font-size: 10px;
 }
+.about{
+    text-align: center;
+}
+#aboutus{
+    font-weight: 800;
+    font-size: 30px;
+}
+#line1{
+    margin-left:100px;
+    margin-right: 40px;
+}
