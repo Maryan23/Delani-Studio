@@ -99,3 +99,18 @@
     font-size: 30px;
     font-weight: 600;
 }
+.form-row{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right:200px;
+    margin-left:200px;
+}
+#message{
+    margin-left:200px;
+    background: transparent;
+    color:white;
+}
+#name{
+    margin-left:-50px;
+}
+
