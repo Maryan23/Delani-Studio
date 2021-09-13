@@ -50,6 +50,10 @@
 }
 .imagetitles{
     display:flex;
+    justify-content: space-evenly;
+}
+.imagetexts{
+    display:flex;
     justify-content:space-between;
 }
 #design{
@@ -62,7 +66,19 @@
     margin-left:60px;
 }
 #dev{
-    margin-left: 70px;
+    margin-left: 620px;
+}
+#mgt{
+    margin-left: 600px;
+}
+.design{
+    display:none;
+}
+.development{
+    display:none;
+}
+.product{
+    display:none;
 }
 .portfolio{
     margin-left: 30px;
