@@ -98,6 +98,17 @@
     display:flex;
     justify-content: space-around;
 }
+.pf{
+    cursor:pointer;
+    color:#ffff;
+    overflow: hidden;
+    position:relative;
+}   
+.pf:hover{
+    border:  solid pink;
+    inset-inline:inherit;
+    content: 'Portfolio projects';
+}
 .contactus{
     background-image: url(assets/backgrounds/c_image.jpg);
     background-size: cover;
@@ -114,20 +125,27 @@
     justify-content: space-evenly;
     margin-right:200px;
     margin-left:200px;
-}
-#message{
-    margin-left:200px;
-    background: transparent;
     color:white;
 }
 #name{
     margin-left:-50px;
+    background: transparent;
+}
+#email{
+    background:transparent;
 }
 .button{
     background: transparent;
     color:white;
     margin-left: 200px;
-    margin-top:-110px;
+    margin-top:-10px;
+}
+#message{
+    margin-left:200px;
+    background: transparent;
+    color:white;
+    height:50%;
+    width:75%
 }
 .socials{
     display:flex;
