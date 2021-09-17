@@ -1,3 +1,7 @@
+*{
+    text-align: center;
+}
+
 .top{
     background-image: url(assets/backgrounds/h_img.jpg);
     background-size: cover;
@@ -98,7 +102,25 @@
     display:flex;
     justify-content: space-around;
 }
-.pf{
+.pfolio{
+    padding-left: 20px;
+}
+#w1 , #w2 , #w3, #w4, #w5, #w6, #w7, #w8{
+    border:solid white;
+    position:absolute;
+    width:95%;
+    height:95%;
+    top:8px;
+    margin-left:8px;
+    padding:10px;
+    color:white;
+    display:none;
+    text-align: left;
+    font-size:30px;
+    font-weight:700;
+}
+
+/* .pf{
     cursor:pointer;
     color:#ffff;
     overflow: hidden;
@@ -108,7 +130,7 @@
     border:  solid pink;
     inset-inline:inherit;
     content: 'Portfolio projects';
-}
+} */
 .contactus{
     background-image: url(assets/backgrounds/c_image.jpg);
     background-size: cover;
@@ -160,3 +182,15 @@
 #cpy{
     text-align: center;
 }
+
+.whatwedo-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.dd , .dp , .pm {
+    display: none;
+}
+
+
